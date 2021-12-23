@@ -1,0 +1,4 @@
+julia.png
+	: Public Domain (Kamu Malı) 
+	: Resized (Boyutu değiştirildi)
+	: Source (Kaynak) https://commons.wikimedia.org/wiki/File:Julia-languge.png
